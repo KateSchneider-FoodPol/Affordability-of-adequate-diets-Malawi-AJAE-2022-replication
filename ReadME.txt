@@ -13,5 +13,5 @@ MalawiIHPS_DietQualCost_PID_r - household survey data at the individual level, i
 MalawiIHPS_DietQualCost_seasonality - the dataset created in the analysis of the seasonality results following the replication code.
 PPP_Denton - monthly level data to smooth international annual PPP price conversions over the year.
 
-Replication code and all datasets to create the analysis datasets used in this paper are available on Harvard Dataverse. 
+Replication code and all datasets to create the analysis datasets used in this paper are available on Harvard Dataverse: https://doi.org/10.7910/DVN/AXDJZ8
 
